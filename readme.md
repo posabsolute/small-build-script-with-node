@@ -64,3 +64,5 @@ Then you can change your concat in your build.js
     });
 
 There you go, now your build script is completely integrated with your app dependencies.
+
+[![endorse](http://api.coderwall.com/posabsolute/endorsecount.png)](http://coderwall.com/posabsolute)
