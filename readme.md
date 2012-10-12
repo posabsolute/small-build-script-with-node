@@ -1,6 +1,6 @@
 # Simple build script to minify and concacenate files using node.js
 
-A simple build script that is easy to integrate in your workflow. Delibately simple, this is a nice base that can sparks ideas or ready to be build on top for something more complex that fit your need. You can see the blog post about this project here.
+A simple build script that is easy to integrate in your workflow. Delibately simple, this is a nice base that can sparks ideas or ready to be build on top for something more complex that fit your need. You can see the blog post about [this project here](http://www.position-absolute.com/?p=4177).
 
 ## Dependencies
 
@@ -21,7 +21,7 @@ It's as simple as that, just tell the script what files wou want to concatenante
 
 To use the minify script you will need to have uglifyJS installed in your app. Then much like concat, chose your already concatenate file and minify it.
 
-uglify('dist/concatenatedFile.js', 'dist/concatenatedFile.min.js');
+    uglify('dist/concatenatedFile.js', 'dist/concatenatedFile.min.js');
 
 
 ## Loading the script
