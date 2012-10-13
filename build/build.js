@@ -1,7 +1,7 @@
 /* You need uglify
 // npm install -g uglify-js
 // npm link uglify-js
-// Run that into node and voila bitch
+// Run that into node and voila
 */
 var FILE_ENCODING = 'utf-8',
 
